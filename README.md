@@ -2,7 +2,7 @@ friendChat
 ==================
 
 ![friendChat1](http://oo8h584mv.bkt.clouddn.com/friendChat-register.gif)
-![friendChat2](http://oo8h584mv.bkt.clouddn.com/friendChat.gif)
+![friendChat2](http://oo8h584mv.bkt.clouddn.com/friendChat1.gif)
 
 Simple chat to communicate with friends
 
