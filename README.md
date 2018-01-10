@@ -8,7 +8,7 @@ Simple chat to communicate with friends
 
 ## Setup
 
-Customize your data in [config file](https://github.com/labike/friendChat/tree/master/api/src/config.js)
+Customize your data in [config file](https://github.com/labike/React-Native-FriendChat/tree/master/api/src/config.js)
 
 ## Installation
 
