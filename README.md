@@ -3,9 +3,7 @@ friendChat
 
 ![friendChat1](http://oo8h584mv.bkt.clouddn.com/friendChat-register.gif)
 
-![friendChat](http://oo8h584mv.bkt.clouddn.com/chat-1.gif)
-
-![friendChat3](http://oo8h584mv.bkt.clouddn.com/chat-2.gif)
+![friendChat2](http://oo8h584mv.bkt.clouddn.com/chat-1.gif) ![friendChat3](http://oo8h584mv.bkt.clouddn.com/chat-2.gif)
 
 Simple chat to communicate with friends
 
