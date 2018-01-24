@@ -30,4 +30,8 @@ Customize your data in [config file](https://github.com/labike/React-Native-Frie
 3. Run app on ios or android
 `npm run ios` or `npm run android`
 
+## Aticle Links
+[articl1](https://labike.github.io/#17)
+[aticle2](https://labike.github.io/#18)
+
 
