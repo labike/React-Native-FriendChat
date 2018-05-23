@@ -1,8 +1,6 @@
 friendChat
 ==================
 
-![friendChat1](http://oo8h584mv.bkt.clouddn.com/friendChat-register.gif)
-
 ![friendChat2](http://oo8h584mv.bkt.clouddn.com/chat-1.gif) ![friendChat3](http://oo8h584mv.bkt.clouddn.com/chat-2.gif)
 
 Simple chat to communicate with friends
@@ -31,7 +29,9 @@ Customize your data in [config file](https://github.com/labike/React-Native-Frie
 `npm run ios` or `npm run android`
 
 ## Aticle Links
+
 [articl1](https://labike.github.io/#17)
+
 [aticle2](https://labike.github.io/#18)
 
 
